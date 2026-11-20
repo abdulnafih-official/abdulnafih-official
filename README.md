@@ -124,7 +124,7 @@ class Nafih:
 
 | Project | Description |
 |---|---|
-| ⚡ **[Energy Demand Forecasting](https://github.com/abdulnafih-official/NLDC-Electricity-Demand-Forecast-Time-Series)** | End-to-end forecasting project, from data to models |[Demo link](https://nldc-electricity-demand-forecast-time-series.streamlit.app/)
+| ⚡ **[Energy Demand Forecasting](https://github.com/abdulnafih-official/NLDC-Electricity-Demand-Forecast-Time-Series)** [Demo link](https://nldc-electricity-demand-forecast-time-series.streamlit.app/) | End-to-end forecasting project, from data to models |
 | 🛠️ **NLDC Data Pipeline** | Airflow + PySpark + Parquet pipeline on NLDC data |
 | 💳 **Streaming ETL** | Synthetic UPI/card payment event stream |
 | 🔎 **[RAG Project](https://github.com/abdulnafih-official/RAG-Project)** | Retrieval-augmented generation pipeline with evaluation |
