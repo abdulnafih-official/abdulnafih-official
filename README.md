@@ -61,7 +61,6 @@ class Nafih:
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
 | Domain | Expertise |
 |---|---|
@@ -132,11 +131,10 @@ class Nafih:
 
 | Project | Description |
 |---|---|
-| ⚡ **Energy Demand Forecasting** | End-to-end forecasting project, from data to models |
+| ⚡ **[Energy Demand Forecasting]()** | End-to-end forecasting project, from data to models |
 | 🛠️ **NLDC Data Pipeline** | Airflow + PySpark + Parquet pipeline on NLDC data |
 | 💳 **Streaming ETL** | Synthetic UPI/card payment event stream |
 | 🔎 **[RAG Project](https://github.com/abdulnafih-official/RAG-Project)** | Retrieval-augmented generation pipeline with evaluation |
-| 🧠 **LSTM/GRU Forecasting** | Deep learning time-series models in PyTorch |
 
 ---
 
