@@ -27,7 +27,7 @@ class Nafih:
         self.location   = "Kerala, India"
         self.education  = "MSc Physics, Central University of Kerala"
         self.interests  = ["Time Series Forecasting", "Data Engineering", "RAG Architectures"]
-        self.motto      = "Ship models, not just notebooks."
+        self.motto      = "Ship end to end systems."
 
     def current_focus(self):
         return [
