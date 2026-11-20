@@ -29,13 +29,6 @@ class Nafih:
         self.interests  = ["Time Series Forecasting", "Data Engineering", "RAG Architectures"]
         self.motto      = "Ship end to end systems."
 
-    def current_focus(self):
-        return [
-            "🔭 Building end-to-end data science & engineering projects",
-            "🌱 Exploring RAG Pipelines & Deep Learning for Time Series",
-            "👯 Open to collaborating on Open Source AI/ML projects",
-            "🎯 Mission: Landing my first Data Science role",
-        ]
 ```
 
 > *"Data is the new oil, but insights are the refined fuel that powers innovation"*
@@ -131,7 +124,7 @@ class Nafih:
 
 | Project | Description |
 |---|---|
-| ⚡ **[Energy Demand Forecasting]()** | End-to-end forecasting project, from data to models |
+| ⚡ **[Energy Demand Forecasting](https://github.com/abdulnafih-official/NLDC-Electricity-Demand-Forecast-Time-Series)** | End-to-end forecasting project, from data to models |[Demo link](https://nldc-electricity-demand-forecast-time-series.streamlit.app/)
 | 🛠️ **NLDC Data Pipeline** | Airflow + PySpark + Parquet pipeline on NLDC data |
 | 💳 **Streaming ETL** | Synthetic UPI/card payment event stream |
 | 🔎 **[RAG Project](https://github.com/abdulnafih-official/RAG-Project)** | Retrieval-augmented generation pipeline with evaluation |
